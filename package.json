@@ -4,9 +4,13 @@
   "description": "Frotem is a Webpack package with Bootstrap and Font Awesome ready to use.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --progress --colors --inline --content-base build"
   },
+  "keywords": [
+    "Webpack",
+    "Bootstrap",
+    "Font Awesome"
+  ],
   "author": "Danny Davila (danny@ecuachina.com)",
   "license": "MIT",
   "dependencies": {
