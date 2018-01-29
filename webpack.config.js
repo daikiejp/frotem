@@ -39,8 +39,8 @@ module.exports = {
         loader: 'file-loader?limit=10000&mimetype=application/font-woff',
         options: {
          name: '[name].[ext]',
-         outputPath: 'fonts/',    // where the fonts will go
-         publicPath: '../'       // override the default path
+         outputPath: 'fonts/',
+         publicPath: '../'
         }
       },
       {
